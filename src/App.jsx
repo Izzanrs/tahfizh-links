@@ -10,7 +10,7 @@ export default function App() {
     name: "SDIT Tahfizh Sabilul Qur'an",
     tagline: "Pusat Informasi & Layanan Program Tahfizh",
     year: new Date().getFullYear(),
-    contactWA: "https://wa.me/6281234567890", 
+    contactWA: "https://wa.me/6285798992860", 
   };
 
   const links = [
