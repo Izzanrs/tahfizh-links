@@ -14,10 +14,10 @@ export default function App() {
   };
 
   const links = [
-    { id: 1, title: "Setoran Hafalan Online (Hafalanku)", url: "https://hafalanku.com", icon: <FileText className="w-5 h-5" />, isHighlight: true },
-    { id: 2, title: "Jadwal Ujian Tasmi' & Kenaikan Jilid", url: "https://docs.google.com/", icon: <Calendar className="w-5 h-5" />, isHighlight: false },
-    { id: 3, title: "Laporan Perkembangan (Mutaba'ah)", url: "https://docs.google.com/", icon: <BookOpen className="w-5 h-5" />, isHighlight: false },
-    { id: 4, title: "Materi Panduan Tajwid Dasar", url: "https://drive.google.com/", icon: <LinkIcon className="w-5 h-5" />, isHighlight: false }
+    { id: 1, title: "Aplikasi Hafalanku)", url: "https://hafalanku.com", icon: <FileText className="w-5 h-5" />, isHighlight: true },
+    { id: 2, title: "Form Pengecekan Drill", url: "https://s.id/DataDrillUMMISQ/", icon: <Calendar className="w-5 h-5" />, isHighlight: false },
+    { id: 3, title: "Tes Kenaikan Jilid", url: "https://s.id/TNJSDSQ/", icon: <BookOpen className="w-5 h-5" />, isHighlight: false },
+    { id: 4, title: "Ujian Tahfizh", url: "https://s.id/UjianTahfizhSDSQ/", icon: <LinkIcon className="w-5 h-5" />, isHighlight: false }
   ];
   // ------------------------------------------
 
@@ -65,7 +65,7 @@ export default function App() {
             <MessageCircle className="w-6 h-6" />
             <span className="text-[10px] uppercase font-bold">WA Admin</span>
           </a>
-          <a href="tel:+6281234567890" className="flex flex-col items-center text-white gap-1">
+          <a href="tel:+6285798992860" className="flex flex-col items-center text-white gap-1">
             <Phone className="w-6 h-6" />
             <span className="text-[10px] uppercase font-bold">Telepon</span>
           </a>
